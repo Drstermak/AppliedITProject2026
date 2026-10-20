@@ -1,9 +1,18 @@
-For: academicians and data analyzers
+# H1 For
+academicians and data analyzers
 
-Who: Who needs to collect data or do poll with interriogation with people
+# H1 Who 
 
-Product Name: Data Scrap Bots (name can change)
+Who needs to collect data or do poll with interriogation with people
 
-That: scraps social media platforms with proper and already given key-words and analyse and predict the answers of induvidials and choose answers with simulating them
+# H1 Product Name 
 
-Unlike: Traditional methods, its fast and automate
+Data Scrap Bots *(name can change)*
+
+# H1 That
+
+ scraps social media platforms with proper and already given key-words and analyse and predict the answers of induvidials and choose answers with simulating them
+
+# H1 Unlike 
+
+Traditional methods, its fast and automate

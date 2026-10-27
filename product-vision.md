@@ -1,18 +1,19 @@
-# For
+#h1 For
+
 academicians and data analyzers
 
-# Who 
+#h1 Who 
 
 Who needs to collect data or do poll with interriogation with people
 
-# Product Name 
+#h1 Product Name 
 
 Data Scrap Bots *(name can change)*
 
-# That
+#h1 That
 
  scraps social media platforms with proper and already given key-words and analyse and predict the answers of induvidials and choose answers with simulating them
 
-# Unlike 
+#h1 Unlike 
 
 Traditional methods, its fast and automate
